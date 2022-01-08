@@ -89,7 +89,7 @@ function Home() {
                   Full-stack Web Developer.
                 </h3>
                 <p>
-                  Keen to learn new things || Enthusiatic to solve problems.
+                  
                 </p>
                 <div className="resume-option">
                   <a href="Gokarla_Srinivas.pdf" download="Gokarla_Srinivas.pdf">
